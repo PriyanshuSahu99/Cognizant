@@ -22,10 +22,7 @@ This repository contains the completed hands-on exercises for the Cognizant Digi
 Organized module-wise according to the topics covered.
 
 ## Total Exercises Completed
-12
+9
 
-## Progress Table
-See [progress.md](./progress.md) for detailed progress tracking.
 
-## GitHub Repository Link
-[JAVA-FSE-ASSIGNMENTS](https://github.com/yourusername/JAVA-FSE-ASSIGNMENTS)
+
